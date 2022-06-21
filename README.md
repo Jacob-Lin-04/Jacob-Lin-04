@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jacob-Lin-04
-- 👀 I’m interested in, game design
-- 🌱 I’m currently learning ... Java, Python, C
+- 👀 I’m interested in, Game design, Object Detection
+- 🌱 I’m currently learning ... Java, Python, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
